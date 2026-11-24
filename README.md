@@ -2,7 +2,7 @@
 
 ### Social Media Data Engineering, Exploratory Data Analysis, and Institutional Communication Metrics Using Python
 
-![IMOVEQROO Facebook Publication Types](assets/imoveqroo_post_types.png)
+![IMOVEQROO Facebook Publication Types](./imoveqroo_post_types.png)
 
 *Figure: Distribution of Facebook posts and reels, generated from the notebook's saved analysis.*
 
